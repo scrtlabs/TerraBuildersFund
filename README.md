@@ -12,4 +12,4 @@ We welcome any and all proposals and recognize that the most interesting proposa
 To apply for a grant, please [click here](https://github.com/scrtlabs/TerraBuildersFund/issues/new?assignees=&labels=&template=terra_grant_application.md&title=%3CYour+Project+Name%3E) and fill out the application template.
 
 If you’d instead like to apply privately, please email info@scrtlabs.com with the above information.
-See the Terra Builders Fund Proposal [here] (https://www.mintscan.io/secret/proposals/98)
+See the Terra Builders Fund Proposal here.
