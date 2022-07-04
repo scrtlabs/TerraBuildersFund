@@ -6,6 +6,6 @@ The Terra Builders Fund was established mainly for these three categories:
 
 We welcome any and all proposals and recognize that the most interesting proposals may be things the Secret Network community has yet to consider.
 
-To apply for a grant, please [click here](TODO) and fill out the application template.
+To apply for a grant, please [click here](https://github.com/scrtlabs/TerraBuildersFund/issues/new?assignees=&labels=&template=terra_grant_application.md&title=%3CYour+Project+Name%3E) and fill out the application template.
 
 If you’d instead like to apply privately, please email info@scrtlabs.com with the above information.
