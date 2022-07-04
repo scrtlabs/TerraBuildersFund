@@ -1,6 +1,6 @@
 ---
 name: "Terra Builders Fund Grant Application"
-about: ""
+about: "A template for submitting a grant request from the Terra Builders Fund"
 title: ""
 labels: ""
 assignees: ""
